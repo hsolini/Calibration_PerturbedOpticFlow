@@ -1,2 +1,2 @@
 # Calibration_PerturbedOpticFlow
-Data associated with "The Effects of Testing Environment, Experimental Design, and Ankle Loading on Calibration to Perturbed Optic Flow During Locomotion"
+Data associated with "The Effects of Testing Environment, Experimental Design, and Ankle Loading on Calibration to Perturbed Optic Flow During Locomotion", available here: https://scholar.google.com/scholar_url?url=https://idp.springer.com/authorize/casa%3Fredirect_uri%3Dhttps://link.springer.com/article/10.3758/s13414-020-02200-1%26casa_token%3Deowt8-Krl18AAAAA:FFkykhkLO4AQIQ0f3UOanLxjM1Js333sItj8NrdQuXt432YBARChANFl9G6bSYR40phy_IF447zJwPwK&hl=en&sa=T&oi=gsb-ggp&ct=res&cd=0&d=4735271262928648667&ei=6ZzCX9StA8aOmgGd3o2gAQ&scisig=AAGBfm0cUH2GZSeMK15VNsecD_myqcacMQ
